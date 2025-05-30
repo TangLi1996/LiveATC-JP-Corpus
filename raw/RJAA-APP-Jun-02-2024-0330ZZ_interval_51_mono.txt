@@ -1,0 +1,2 @@
+- CHINA EASTERN 593 confirm descend 10000. - Station calling, say again. - CHINA EASTERN 593 confirm 10000.
+- CHINA EASTERN 593 affirm cross COPEN at 10000. - Roger COPEN 10000 CHINA EASTERN 593.

@@ -1,0 +1,2 @@
+- EASTARJET 601 fly heading 180, vector to TEMIS, descend and maintain 9000. - Heading 180, vector
+to TEMIS, descend 9000 EASTARJET 601.

@@ -1,0 +1,2 @@
+- EVA 108 descent and maintain 6000. - Descend 6000 EVA 108. 
+- KOREAN AIR 2129 fly heading 180 vector to TEMIS. Descend and maintain 6000. - Heading 180 descend and maintain 6000 KOREAN AIR 2129. - KOREAN AIR 2129 confirm descent and maintain 6000. - heading 180 descend to 6000 KOREAN AIR 2129. - Thank you.
