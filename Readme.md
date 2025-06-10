@@ -1,5 +1,5 @@
 # Aviation Communication Corpus (ATC-420)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15549415.svg)](https://doi.org/10.5281/zenodo.15549415)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15549416.svg)](https://doi.org/10.5281/zenodo.15549416)
 
 This dataset contains 420 audio recordings (2 hours) collected from LiveATC.net, along with manual transcriptions and force-alignment annotations created by our research team. The corpus was developed to support academic research on automatic speech recognition (ASR) and phonetic alignment in aviation communication.
 
@@ -45,8 +45,7 @@ If you use this corpus in your work, please cite it as:
 
 For questions or collaboration, please contact:  
 **Li Tang** (tangli19961030@gmail.com)
-**Veronica Khaustova** (veranika.aizu@gmail.com
-)
+**Veronica Khaustova** (veranika.aizu@gmail.com)
 **Julián Villegas** (julian@u-aizu.ac.jp)
 
 ---
